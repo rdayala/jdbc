@@ -3,7 +3,7 @@ import java.sql.*;
 import java.util.Properties;
 import java.util.Scanner;
 
-public class JdbcTestUsingPropertiesFileDemo {
+public class PropertiesFileDbDetailsDemo {
 	
 	public static void main(String[] args) throws SQLException {
 
